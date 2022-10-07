@@ -1,0 +1,10 @@
+ install the git bash in your computer.
+ Go to (GITHUB) online repo copy the CLONE URL link.
+ go to desktop create folder.
+ go to folder give right click and open git-bash.
+ Configure Username &amp; email
+ git config - -global user.email “emilid”
+ git config - -global user.name “name”
+ #Clone the code from github repo
+ git clone repoURL-link
+ cd reponame
